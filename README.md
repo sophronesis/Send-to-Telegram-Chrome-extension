@@ -45,6 +45,7 @@ You can use this extension intuitively:
 - [ ] Set up API URL manually (suggested by [windyskr](https://www.v2ex.com/t/777006#r_10527433)).
 - [ ] Obtain `<API token>` automatically.
 - [ ] Open new tab in Chrome when a URL is send to bot from phone.
+- [ ] Add Firefox support.
 
 ## License
 
